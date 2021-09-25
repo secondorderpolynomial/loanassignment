@@ -25,6 +25,7 @@ The following options are available. All options are optional:
    -l csv_file      Loans csv file (input). Default: ./loans.csv
    -a csv_file      Assignments csv file (output). Default: ./assignments.csv
    -y csv_file      Yields csv file (output). Default: ./yields.csv
+```
 
 ### Primary classes
 
